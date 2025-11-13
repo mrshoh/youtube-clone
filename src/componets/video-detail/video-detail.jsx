@@ -1,8 +1,8 @@
 import { useParams } from "react-router-dom"
 import {  useEffect, useState } from "react";
 import { ApiService } from "../../service/api.service"
-import { Avatar, Box, Chip, Stack, Typography } from "@mui/material";
-import { Check, FavoriteOutlined, MarkChatRead, Tag, Visibility, CheckCircle} from "@mui/icons-material";
+import { Avatar, Box, Stack, Typography } from "@mui/material";
+import { FavoriteOutlined, MarkChatRead, Visibility, CheckCircle} from "@mui/icons-material";
 import { Loader, Videos } from ".."
 import { Link } from "react-router-dom";
 
