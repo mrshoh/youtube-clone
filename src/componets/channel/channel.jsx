@@ -1,4 +1,4 @@
-import { Box, Button, Container } from "@mui/material"
+import { Box, Container } from "@mui/material"
 import { useParams } from "react-router-dom"
 import { useEffect, useState } from "react"
 import { ChannelCard, Videos } from ".."
